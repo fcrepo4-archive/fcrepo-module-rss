@@ -1,5 +1,5 @@
 
-package org.fcrepo.syndication;
+package org.fcrepo.integration.syndication;
 
 import static java.lang.Integer.parseInt;
 import static java.lang.System.getProperty;

@@ -1,5 +1,5 @@
 
-package org.fcrepo.syndication;
+package org.fcrepo.integration.syndication;
 
 import static java.util.regex.Pattern.DOTALL;
 import static java.util.regex.Pattern.compile;
